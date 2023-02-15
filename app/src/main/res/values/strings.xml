@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GitHubUser</string>
+    <string name="github_user">nama user</string>
+    <string name="description">deskripsi</string>
+    <string name="content_description">dummy user github</string>
+    <string name="dummy_number">0</string>
+    <string name="repository">Repository : </string>
+    <string name="followers">Followers : </string>
+    <string name="following">Following :</string>
+    <string name="company">Company :</string>
+    <string name="location">Location :</string>
+    <string name="detail">Detail:</string>
+    <string name="name">name</string>
+    <string name="username">username</string>
+
+    <string name="content_tab_text">This is Tab %1$d</string>
+
+
+    <string name="image_splash_screen">image splash screen</string>
+    <string name="recycler_image_cont_desc">recyclerImage</string>
+    <string name="icon_to_description_cont_desc">icon to description</string>
+    <string name="Searching">Searching</string>
+    <string name="search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="backgroundDesc">this is background user</string>
+    <string name="supportActionBarDetail">Detail Data</string>
+    <string name="supportActionBarFavorite">Favorite</string>
+    <string name="supportActionBarMain">  GitHubUser</string>
+    <string name="no_data">No Data</string>
+
+    <string name="empty_followers">Tidak ada Followers</string>
+    <string name="empty_following">Tidak Ada Following</string>
+
+</resources>
