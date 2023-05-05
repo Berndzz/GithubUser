@@ -6,5 +6,17 @@ GithubUser App
 
 GithubUser App adalah aplikasi android yang fungsi utamanya adalah memberikan informasi terkait pengguna github
 
-# Teknologi Used
-* Animate addition and removal of [`ItemAnimator`](#itemanimator-1)
+## Technology Used
+* RecyclerView
+* Retrofit
+* MVVM 
+* API GitHub
+* Room DB
+
+## Demo
+<img src="art/demo2.gif" width="32%">
+
+### How to use this app
+Misalnya anda ingin mencoba aplikasi ini, silahkan clone dan ganti api yang ada di file build.gradle dengan api anda. 
+
+<img src="art/img2.jpg" width="80%">
