@@ -14,7 +14,7 @@ GithubUser App adalah aplikasi android yang fungsi utamanya adalah memberikan in
 * Room DB
 
 ## Demo
-<img src="art/demo2.gif" width="32%">
+<img src="art/demo3.gif" width="32%">
 
 ### How to use
 Misalnya anda ingin mencoba aplikasi ini, silahkan clone dan ganti api yang ada di file build.gradle dengan api anda. 
