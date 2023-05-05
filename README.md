@@ -6,6 +6,10 @@ GithubUser App
 
 GithubUser App adalah aplikasi android yang fungsi utamanya adalah memberikan informasi terkait pengguna github
 
+## Features
+* Favorite
+* Dark Mode
+
 ## Technology Used
 * RecyclerView
 * Retrofit
